@@ -1,0 +1,16 @@
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 1rem;
+}
+
+.card {
+  border-radius: 0.5rem;
+}
+
+/*# sourceMappingURL=style.css.map */
