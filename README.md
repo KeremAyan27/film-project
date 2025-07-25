@@ -1,53 +1,32 @@
-# filmproject
+# 🎬 Film Project – Frontend Intern Case
 
-This project was assigned as a JavaScript practice case during my frontend internship. The goal was to build a simple web application that allows users to add, list, delete, and persist film data using form inputs and browser storage.
+A dynamic film listing app built as a frontend internship case study. This project showcases DOM manipulation, responsive design, modular SCSS, and persistent storage with `localStorage`.
 
-# 🎬 Film Manager App
+🔗 [Live Site](https://filmprojectresponsive.netlify.app/)  
 
-**Frontend Internship – JavaScript Case Study**
 
-## 🚀 Overview
+## 🔧 Features
 
-A lightweight web app to manage films: add, list, delete, and persist film entries using JavaScript and browser storage.
+- Add films with title, director, and poster URL  
+- Instant DOM rendering  
+- Delete individual films  
+- Clear all films at once  
+- Save films to localStorage  
+- Fully responsive layout (mobile-first)  
+- Clean, modular SCSS architecture
 
-## 🔗 Live Demo
 
-https://filmprojectresponsive.netlify.app/
 
-## 🧰 Stack
+## 🛠️ Technologies
 
-- **HTML5** – Semantic structure
-- **CSS3 (SCSS)** – Modular styling
-- **Bootstrap 4** – Responsive layout
-- **JavaScript (Vanilla)** – DOM + Storage logic
-- **localStorage API** – Persistent data
+- HTML5 (semantic structure)  
+- JavaScript (ES6)  
+- SCSS (modular structure using `@use`)  
+- Bootstrap 4  
+- Git / GitHub  
+- Netlify (for deployment)
 
-## ✅ Core Features
 
-- Add film via form
-- Delete individual film
-- Clear all films
-- Store films in localStorage
-- Responsive UI (mobile/tablet/desktop)
 
-## 💼 My Additions
 
-- SCSS folder structure (`base`, `layout`, `components`, `utils`)
-- Clean DOM separation (UI vs Storage logic)
-- Alert messages with auto-timeout
-- Mobile-first responsive layout refinements
-- Consistent button styles
 
-## 📦 Usage
-
-1. Clone the repo
-2. Open `index.html`
-3. Add films → They persist in browser
-
-## 📌 What I Practiced
-
-- DOM manipulation
-- Form validation
-- Clean code and UX feedback
-- LocalStorage operations
-- Responsive + scalable CSS structure
