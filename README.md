@@ -2,7 +2,7 @@
 
 A dynamic film listing app built as a frontend internship case study. This project showcases DOM manipulation, responsive design, modular SCSS, and persistent storage with `localStorage`.
 
-🔗 [Live Site](https://filmprojectresponsive.netlify.app/)  
+🔗 [Live Site](https://film-project1.netlify.app/)  
 
 
 ## 🔧 Features
