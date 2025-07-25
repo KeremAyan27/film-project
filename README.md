@@ -10,6 +10,10 @@ This project was assigned as a JavaScript practice case during my frontend inter
 
 A lightweight web app to manage films: add, list, delete, and persist film entries using JavaScript and browser storage.
 
+## 🔗 Live Demo
+
+https://filmprojectresponsive.netlify.app/
+
 ## 🧰 Stack
 
 - **HTML5** – Semantic structure
