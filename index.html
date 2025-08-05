@@ -16,6 +16,14 @@
     />
     <link rel="stylesheet" href="style.css" />
     <title>Film Project</title>
+    <style>
+      .film-cell {
+        max-width: 180px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    </style>
   </head>
 
   <body>
@@ -74,7 +82,9 @@
                 <th scope="col">İşlem</th>
               </tr>
             </thead>
-            <tbody id="films"></tbody>
+            <tbody id="films">
+              <!-- The lines will come with js-->
+            </tbody>
           </table>
 
           <div class="table-message">

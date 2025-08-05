@@ -1,0 +1,30 @@
+/* Reset basic styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 1rem;
+}
+
+.film-cell {
+  max-width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card {
+  border-radius: 0.5rem;
+}
+
+.responsive-button {
+  width: auto;
+}
+@media (max-width: 991.98px) {
+  .responsive-button {
+    width: 100%;
+  }
+}/*# sourceMappingURL=style.css.map */
